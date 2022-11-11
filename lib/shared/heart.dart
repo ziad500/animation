@@ -1,9 +1,9 @@
-import 'dart:isolate';
-
 import 'package:flutter/material.dart';
 
+// ignore: use_key_in_widget_constructors
 class Heart extends StatefulWidget {
   @override
+  // ignore: library_private_types_in_public_api
   _HeartState createState() => _HeartState();
 }
 
